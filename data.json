@@ -3,7 +3,7 @@
   "location": "Eugene, OR, USA",
   "dates": "March 04-05, 2017",
   "year": "2017",
-  "background_img": "/img/BrainhackBanner.jpg",
+  "background_img": "/img/BrainhackBanner_notext.jpg",
   "color_theme": {"background": "#1E90FF", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://docs.google.com/forms/d/1VaCo2OEIbEIMJ50iDyeHPdvxn2vkQ6Nzp6D1h7dxgT8",
