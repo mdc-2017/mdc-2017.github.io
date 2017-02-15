@@ -4,7 +4,7 @@
   "dates": "March 04-05, 2017",
   "year": "2017",
   "background_img": "/img/BrainhackBanner.jpg",
-  "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
+  "color_theme": {"background": "#1E90FF", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://docs.google.com/forms/d/1VaCo2OEIbEIMJ50iDyeHPdvxn2vkQ6Nzp6D1h7dxgT8",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
@@ -17,7 +17,7 @@
     "fa_icon": "fa-share-alt"
     },
   {"name": "Gain Skills",
-    "desc": "Learn how to apply the latest computational tools to you data.",
+    "desc": "Learn how to apply the latest computational tools to your data.",
     "fa_icon": "fa-graduation-cap"
     },
   {"name":"Get Involved",
@@ -27,7 +27,7 @@
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
     "details": {"costs":"Free to attend. Breakfast, lunch, dinner and coffee provided."},
-    "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
+    "schedule_background_img": "/img/BrainhackBanner.jpg",
     "schedule":  [{"date": "Saturday, March 04",
                   "times": [{"time": "9:00am", "event": "Breakfast in LISB atrium"},
                             {"time": "9:30am", "event": "Introduction to brainhack"},
