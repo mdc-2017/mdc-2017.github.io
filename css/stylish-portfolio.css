@@ -17,10 +17,10 @@ body {
 }
 
 .text-color-blue {
-	color:#e24401;
+	color:#f600ff;
 }
 .text-color-blue a {
-	color:#e24401;
+	color:#f600ff;
 }
 
 .text-vertical-center {
@@ -327,7 +327,7 @@ footer {
 }
 
 a {
-    color: #e24401;
+    color: #f600ff;
 }
 
 a:focus, a:hover {
