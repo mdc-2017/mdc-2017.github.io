@@ -10,14 +10,14 @@
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://events.brainhack.org/global2017/projects.html",
   "title_photo_link":"",
-  "title_photo_author": "Kate Mills",
+  "title_photo_author": "Eugene Skinner",
   "services":[{
     "name": "Share",
-    "desc": "Show your research to other neuroimaging researchers.",
+    "desc": "Show your research to other brainhack attendees.",
     "fa_icon": "fa-share-alt"
     },
-  {"name": "Gain Skills",
-    "desc": "Learn how to apply the latest computational tools to your data.",
+  {"name": "Open Science",
+    "desc": "Learn about current open science practices and data.",
     "fa_icon": "fa-graduation-cap"
     },
   {"name":"Get Involved",
@@ -50,7 +50,9 @@
     "location_name": "Lewis Integrative Science Building",
     "location_url":"",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.7904286414496!2d-123.07349328448944!3d44.04638437910987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e3b358838b7%3A0x439e4cc209f79915!2sLewis+Integrative+Science+Building!5e0!3m2!1sen!2sus!4v1487200224163",
-    "sponsors": [{"name": "", "url": "", "logo":""}],
+    "sponsors": [{"name": "UO Psychology Department", "url": "http://psychology.uoregon.edu/", "logo":"https://pbs.twimg.com/profile_images/733062639325040641/6QzQWlvL.jpg"},
+                {"name": "DSN Lab", "url": "https://dsn.uoregon.edu/", "logo":"https://dsn.uoregon.edu/files/2014/08/DSN_WebBanner-21fnoun.png"},
+                {"name": "ADAPT Lab", "url": "http://adaptlab.uoregon.edu/", "logo":"http://adaptlab.uoregon.edu/files/2015/04/ADAPT-Logo-UO-2atl410-890x400.png"}],
     "organizers": ["Kate Mills (chair)", "John Flournoy", "Dani Cosme", "Theresa Cheng", "Jennifer Pfeifer", "Nandi Vijayakumar"]
 
 }
