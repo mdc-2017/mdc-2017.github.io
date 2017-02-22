@@ -229,9 +229,9 @@
 {% for sponsor in sponsors %}
 		  <div class="row no-gutter top30">
         {% if loop.index % 2 %}
-			    <div class="col-lg-12" >
+			    <div class="col-md-1 col-centered" >
             {% endif %}
-                    <div class="">
+                    <div class="col-md-1 col-centered">
                         <a href="{{sponsor.url}}" target="_blank"><img src="{{sponsor.logo}}" class="img-responsive" alt="{{sponsor.name}}" id="{{sponsor.name.replace(" ", "_")}}"></a>
                     </div>
 
