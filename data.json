@@ -27,7 +27,7 @@
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
     "details": {"costs":"Free to attend. Breakfast, lunch, dinner and coffee provided."},
-    "schedule_background_img": "/img/BrainhackBanner.jpg",
+    "schedule_background_img": "/img/LISB_interior_flat.jpg",
     "schedule":  [{"date": "Saturday, March 04",
                   "times": [{"time": "9:00am", "event": "Breakfast in LISB atrium"},
                             {"time": "9:30am", "event": "Introduction to brainhack"},
