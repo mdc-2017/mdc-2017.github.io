@@ -4,7 +4,7 @@
   "dates": "March 04-05, 2017",
   "year": "2017",
   "background_img": "/img/BrainhackBanner_notext.jpg",
-  "color_theme": {"background": "#1E90FF", "font": "#fff", "link_color": "#e24401"},
+  "color_theme": {"background": "#1E90FF", "font": "#fff", "link_color": "#FF0080"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://docs.google.com/forms/d/1VaCo2OEIbEIMJ50iDyeHPdvxn2vkQ6Nzp6D1h7dxgT8",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
@@ -50,9 +50,9 @@
     "location_name": "Lewis Integrative Science Building",
     "location_url":"",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.7904286414496!2d-123.07349328448944!3d44.04638437910987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e3b358838b7%3A0x439e4cc209f79915!2sLewis+Integrative+Science+Building!5e0!3m2!1sen!2sus!4v1487200224163",
-    "sponsors": [{"name": "UO Psychology Department", "url": "http://psychology.uoregon.edu/", "logo":"https://pbs.twimg.com/profile_images/733062639325040641/6QzQWlvL.jpg"},
-                {"name": "DSN Lab", "url": "https://dsn.uoregon.edu/", "logo":"https://dsn.uoregon.edu/files/2014/08/DSN_WebBanner-21fnoun.png"},
-                {"name": "ADAPT Lab", "url": "http://adaptlab.uoregon.edu/", "logo":"http://adaptlab.uoregon.edu/files/2015/04/ADAPT-Logo-UO-2atl410-890x400.png"}],
+    "sponsors": [{"name": "UO Psychology Department", "url": "http://psychology.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/psyLogo-xowhkv.jpg"},
+                {"name": "DSN Lab", "url": "https://dsn.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/dsnLogo-12yl97s.png"},
+                {"name": "ADAPT Lab", "url": "http://adaptlab.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/adaptLogo-s72rrd.png"}],
     "organizers": ["Kate Mills (chair)", "John Flournoy", "Dani Cosme", "Theresa Cheng", "Jennifer Pfeifer", "Nandi Vijayakumar"]
 
 }
