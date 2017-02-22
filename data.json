@@ -50,9 +50,9 @@
     "location_name": "Lewis Integrative Science Building",
     "location_url":"",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.7904286414496!2d-123.07349328448944!3d44.04638437910987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e3b358838b7%3A0x439e4cc209f79915!2sLewis+Integrative+Science+Building!5e0!3m2!1sen!2sus!4v1487200224163",
-    "sponsors": [{"name": "UO Psychology Department", "url": "http://psychology.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/psyLogo-xowj1m.jpg"},
-                {"name": "DSN Lab", "url": "https://dsn.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/dsnLogo-12ylasg.png"},
-                {"name": "ADAPT Lab", "url": "http://adaptlab.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/adaptLogo-s72tc1.png"}],
+    "sponsors": [{"name": "UO Psychology Department", "url": "http://psychology.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/psyLogo_200-2bbnojk.jpg"},
+                {"name": "DSN Lab", "url": "https://dsn.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/dsnLogo_200-tdvj5z.png"},
+                {"name": "ADAPT Lab", "url": "http://adaptlab.uoregon.edu/", "logo":"https://blogs.uoregon.edu/dsnlab/files/2017/02/adaptLogo_200-2ceqque.png"}],
     "organizers": ["Kate Mills (chair)", "John Flournoy", "Dani Cosme", "Theresa Cheng", "Jennifer Pfeifer", "Nandi Vijayakumar"]
 
 }
