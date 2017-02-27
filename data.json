@@ -6,7 +6,7 @@
   "background_img": "/img/BrainhackBanner.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"https://docs.google.com/forms/d/1VaCo2OEIbEIMJ50iDyeHPdvxn2vkQ6Nzp6D1h7dxgT8",
+  "registration_link":"https://goo.gl/forms/rjU9maFAdqnmMeSj1",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://events.brainhack.org/global2017/projects.html",
   "title_photo_link":"",
