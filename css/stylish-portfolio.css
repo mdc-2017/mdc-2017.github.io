@@ -214,7 +214,7 @@ hr.small {
 
 /* Callout */
 
-.callout {
+/*.callout {
     display: table;
     width: 100%;
     height: 400px;
@@ -224,7 +224,7 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
+} */
 
 
 .location {
