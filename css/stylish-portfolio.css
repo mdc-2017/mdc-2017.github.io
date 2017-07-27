@@ -28,7 +28,7 @@ body {
     text-align: center;
     vertical-align: middle;
     color:white;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'PT Sans', cursive;
 }
 
 .text-vertical-center h1 {
@@ -182,21 +182,21 @@ hr.small {
 /* Sponsors */
 #sponsors {
     /*padding: 50px 0;*/
-	font-family: 'Comfortaa', cursive;
+	font-family: 'PT Sans', cursive;
 }
 
 /* Services */
 
 .details {
     padding: 20px 0;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'PT Sans', cursive;
 }
 
 /* Services */
 
 .services {
     padding: 50px 0;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'PT Sans', cursive;
 }
 
 .services a {
@@ -232,7 +232,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #000;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'PT Sans', cursive;
     background: url() no-repeat center center scroll;
     -webkit-background-size: auto;
     -moz-background-size: auto;
@@ -255,8 +255,8 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    font-family: 'Comfortaa', cursive;
-    background: url(/img/HiltonPortland.jpg) no-repeat center center scroll;
+    font-family: 'PT Sans', cursive;
+    background: url(/img/hiltonportland.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -268,8 +268,8 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    font-family: 'Comfortaa', cursive;
-    background: url(../img/hotel.png) no-repeat center center scroll;
+    font-family: 'PT Sans', cursive;
+    background: url(../img/hiltonportland.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
